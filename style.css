@@ -1,0 +1,38 @@
+body
+{
+    font-size: 14px;
+    line-height: 1;
+    color: #333;
+    background-color: #fff;
+}
+center
+{
+    display: block;
+    text-align: -webkit-center;
+}
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+.btn-info
+{
+    color: #fff;
+    background-color: red;
+}
+.status
+{
+    color: #333;
+    background-color: skyblue;
+}
+#restart
+{
+    color: #fff;
+    background-color:skyblue;
+}
+h4
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+}
